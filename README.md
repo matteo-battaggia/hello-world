@@ -19,7 +19,7 @@ _You **can** combine them_
    * Item 3a
    * Item 3b
 
-![GitHub Logo](/images/logo.png)
+![Happy face](https://upload.wikimedia.org/wikipedia/en/6/6f/Smiley_Face.png)
 
 http://github.com - automatic!
 
